@@ -1,0 +1,231 @@
+* { 
+    
+    padding: 15px; 
+    
+}
+.header{
+    position: absolute;
+    width: 1360px;
+    height: 50px;
+    left: 0px;
+    top: 0px;
+    
+    background: #863838;
+    box-shadow: 0px 6px 9px rgba(0, 0, 0, 0.25);
+}
+
+.header h1{
+    position: absolute;
+width: 93px;
+height: 44px;
+left: 50px;
+top: -25px;
+
+    
+    font-family: Century Gothic;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    
+    color: #FFFFFF;
+}
+
+.header label{
+    float: right;
+    margin-top: -22px;
+    padding: 2px;
+}
+.header input[type=search]{
+    float: right;
+    margin-top: -20px;
+    padding: 2px;
+    width: 180px;
+    height: 20px;
+    
+}
+
+.BERANDA{
+    position: absolute;
+    width: 66px;
+    height: 17px;
+    left: 288px;
+    top: 8px;
+    
+    font-family: Century Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #FFFFFF;
+    }
+
+.MENU{
+    position: absolute;
+width: 40px;
+height: 17px;
+left: 398px;
+top: 8px;
+
+font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+.RESERVASI{
+    position: absolute;
+width: 68px;
+height: 17px;
+left: 482px;
+top: 8px;
+
+font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+.HALAMAN{
+    position: absolute;
+width: 71px;
+height: 17px;
+left: 588px;
+top: 8px;
+
+font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+.BLOG{
+    position: absolute;
+width: 39px;
+height: 17px;
+left: 703px;
+top: 8px;
+
+font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+.TOKO{
+    position: absolute;
+width: 39px;
+height: 17px;
+left: 786px;
+top: 8px;
+
+font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+.ELEMEN{
+    position: absolute;
+width: 53px;
+height: 17px;
+left: 869px;
+top: 8px;
+
+font-family: Century Gothic;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+
+.form {
+    position: absolute;
+    width: 189px;
+    height: 26px;
+    left: 1121px;
+    top: 27px;
+}
+.search {
+    position: absolute;
+    width: 159px;
+    height: 26px;
+    left: 1121px;
+    top: 27px;
+    border-radius: 45px;
+    padding:0px 15px;
+    background:rgba(50, 50, 50, 0.2);
+    color: #FFFFFF;
+    border:0px solid #dbdbdb;
+}
+.button {
+    position: absolute;
+    left: 1250px;
+    top: 27px;
+    padding:3px 15px;
+    border-radius: 45px;
+    border:2px solid #863838;
+    background-color:#FFFFFF;
+    color:#863838;
+}
+.button:hover  {
+    background-color:#fafafa;
+    color:#863838;
+}
+
+html { 
+  margin: 0;
+  padding: 0;
+  background-image: url('pexels-lukas-349609.jpg');
+  background-size: 100%;
+}
+body { 
+  max-width: 600px;
+  margin: 30px auto;
+ 
+}
+h1{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+}
+
+button{
+    background: #863838;
+    box-shadow: 0px 6px 9px rgba(0, 0, 0, 0.25);
+    color: white;
+    text-align: center;
+    width: 500px;
+    caption-side: bottom;
+    margin: 20px;
+}
+
+h3 {
+    height: 10px;
+    position: fixed;
+    left: 0;
+    bottom: -20px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
